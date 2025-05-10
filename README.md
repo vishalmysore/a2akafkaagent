@@ -3,7 +3,7 @@
 This project demonstrates the integration of Google's Agent-to-Agent (A2A) protocol with Apache Kafka using Spring Boot. The A2A protocol, developed by Google, enables seamless communication and task delegation between different AI agents. When combined with Kafka's robust messaging capabilities, it creates a powerful system for distributed task processing.
 
 ## What is A2AJava?
-A2AJava is the Java implementation of the Google A2A protocol you can check the project [here](https://github.com/vishalmysore/a2ajav) .
+A2AJava is the Java implementation of the Google A2A protocol you can check the project [here](https://github.com/vishalmysore/a2ajava) .
 it allows java based AI agents to  
 - Discover each other's capabilities
 - Delegate tasks between agents
